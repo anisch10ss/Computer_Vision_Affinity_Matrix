@@ -36,3 +36,8 @@ The **Affinity Matrix** dynamically computes similarity or correlation between e
 ```bash
 git clone https://github.com/your-username/affinity-matrix-vision.git
 cd affinity-matrix-vision
+🧑‍💻 Developed by
+Anis Chennaoui – Software Engineer with a passion for AI, computer vision, and creative frontend interfaces.
+
+🪪 License
+This project is licensed under the MIT License.
